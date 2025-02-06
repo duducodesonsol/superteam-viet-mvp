@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Alice",
+      "skills": ["Rust", "Solidity", "Blockchain"],
+      "experience": "5 years"
+    },
+    {
+      "name": "Bob",
+      "skills": ["Python", "JavaScript"],
+      "experience": "3 years"
+    }
+]
+  
