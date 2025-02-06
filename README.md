@@ -65,27 +65,32 @@ mvp_project/ ├── main.py # Main entry point to run the MVP ├── membe
     - twitter_assistant/twitter_manager.py for Twitter API access.
 
 ### Running the MVP
-Run the main entry point to start all modules:
+  Run the main entry point to start all modules:
 
-   ```bash
-   python main.py
-
-- The Telegram bot will start polling for messages.
-- Example invocations for the Member Finder, Twitter Assistant, and Content Advisor will be executed.
+  ```bash  
+    python main.py
+  ```
+  
+  - The Telegram bot will start polling for messages.
+  - Example invocations for the Member Finder, Twitter Assistant, and Content Advisor will be executed.
 
 ### Usage
 
 - Telegram Bot:
-Start a chat with your bot on Telegram and send any query related to your documents.
+
+  Start a chat with your bot on Telegram and send any query related to your documents.
 
 - Member Finder:
-Test member matching by running queries from the command line (see finder.py).
+
+  Test member matching by running queries from the command line (see finder.py).
 
 - Twitter Assistant:
-Generate and publish tweets via the integrated Twitter API.
+
+  Generate and publish tweets via the integrated Twitter API.
 
 - Content Advisor:
-Get content improvement suggestions by interacting with the advisor module.
+
+  Get content improvement suggestions by interacting with the advisor module.
 
 ### Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
