@@ -1,13 +1,132 @@
 [
-    {
-      "name": "Alice",
-      "skills": ["Rust", "Solidity", "Blockchain"],
-      "experience": "5 years"
-    },
-    {
-      "name": "Bob",
-      "skills": ["Python", "JavaScript"],
-      "experience": "3 years"
-    }
+  {
+    "name": "Alice",
+    "skills": ["Rust", "Solidity", "Blockchain"],
+    "experience": "5 years"
+  },
+  {
+    "name": "Bob",
+    "skills": ["Python", "JavaScript"],
+    "experience": "3 years"
+  },
+  {
+    "name": "Charlie",
+    "skills": ["Java", "Kotlin", "Android"],
+    "experience": "4 years"
+  },
+  {
+    "name": "David",
+    "skills": ["C#", ".NET", "Azure"],
+    "experience": "6 years"
+  },
+  {
+    "name": "Eve",
+    "skills": ["Go", "Docker", "Kubernetes"],
+    "experience": "2 years"
+  },
+  {
+    "name": "Frank",
+    "skills": ["PHP", "Laravel", "MySQL"],
+    "experience": "5 years"
+  },
+  {
+    "name": "Grace",
+    "skills": ["Swift", "iOS", "Objective-C"],
+    "experience": "3 years"
+  },
+  {
+    "name": "Hank",
+    "skills": ["Ruby", "Rails", "PostgreSQL"],
+    "experience": "4 years"
+  },
+  {
+    "name": "Ivy",
+    "skills": ["C++", "Qt", "Embedded Systems"],
+    "experience": "7 years"
+  },
+  {
+    "name": "Jack",
+    "skills": ["TypeScript", "React", "Node.js"],
+    "experience": "2 years"
+  },
+  {
+    "name": "Kathy",
+    "skills": ["Scala", "Akka", "Play"],
+    "experience": "5 years"
+  },
+  {
+    "name": "Leo",
+    "skills": ["Perl", "CGI", "Linux"],
+    "experience": "6 years"
+  },
+  {
+    "name": "Mona",
+    "skills": ["Haskell", "Functional Programming", "Category Theory"],
+    "experience": "3 years"
+  },
+  {
+    "name": "Nina",
+    "skills": ["Elixir", "Phoenix", "Erlang"],
+    "experience": "4 years"
+  },
+  {
+    "name": "Oscar",
+    "skills": ["Dart", "Flutter", "Firebase"],
+    "experience": "2 years"
+  },
+  {
+    "name": "Paul",
+    "skills": ["R", "Data Science", "Machine Learning"],
+    "experience": "5 years"
+  },
+  {
+    "name": "Quincy",
+    "skills": ["MATLAB", "Simulink", "Control Systems"],
+    "experience": "6 years"
+  },
+  {
+    "name": "Rita",
+    "skills": ["SAS", "Statistical Analysis", "Data Mining"],
+    "experience": "3 years"
+  },
+  {
+    "name": "Sam",
+    "skills": ["Julia", "Numerical Computing", "Optimization"],
+    "experience": "4 years"
+  },
+  {
+    "name": "Tina",
+    "skills": ["COBOL", "Mainframe", "JCL"],
+    "experience": "7 years"
+  },
+  {
+    "name": "Uma",
+    "skills": ["Fortran", "High Performance Computing", "Parallel Computing"],
+    "experience": "2 years"
+  },
+  {
+    "name": "Victor",
+    "skills": ["VHDL", "FPGA", "Digital Design"],
+    "experience": "5 years"
+  },
+  {
+    "name": "Wendy",
+    "skills": ["Verilog", "ASIC", "Hardware Design"],
+    "experience": "6 years"
+  },
+  {
+    "name": "Xander",
+    "skills": ["Assembly", "Microcontrollers", "Embedded C"],
+    "experience": "3 years"
+  },
+  {
+    "name": "Yara",
+    "skills": ["Prolog", "Logic Programming", "AI"],
+    "experience": "4 years"
+  },
+  {
+    "name": "Zane",
+    "skills": ["Lisp", "Artificial Intelligence", "Symbolic Computation"],
+    "experience": "7 years"
+  }
 ]
-  

@@ -1,7 +1,7 @@
-# content_advisor/advisor.py
-
+"""
+content_advisor/advisor.py
+"""
 from local_llm.llm import generate_response
-
 def advise_content(platform: str, content: str) -> str:
     """
     Given a platform and content, use the local LLM to suggest improvements.
@@ -13,5 +13,5 @@ def advise_content(platform: str, content: str) -> str:
 if __name__ == '__main__':
     platform = "Twitter"
     content = "Check out our new project launch!"
-    improved_content = advise_content(platform, content)
-    print("Improved content:", improved_content)
+    enhanced_content = advise_content(platform, content)
+    print("Improved content:", enhanced_content)

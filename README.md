@@ -30,7 +30,23 @@ The MVP is comprised of the following modules:
   The system integrates with Telegram and Twitter APIs to manage communications and social media workflows seamlessly.
 
 ## Repository Structure
-mvp_project/ ├── main.py # Main entry point to run the MVP ├── members.json # Sample JSON database for Superteam members ├── local_llm/ │ └── llm.py # Local LLM module (placeholder for actual integration) ├── telegram_bot/ │ ├── bot.py # Telegram bot logic and handlers │ └── doc_processing.py # Document processing and retrieval logic ├── member_finder/ │ └── finder.py # Superteam Member Finder module ├── twitter_assistant/ │ └── twitter_manager.py # Twitter assistant module └── content_advisor/ └── advisor.py # Content advisor module
+
+```plaintext
+mvp_project/
+├── main.py                # Main entry point to run the MVP
+├── members.json           # Sample JSON database for Superteam members
+├── local_llm/
+│   └── llm.py             # Local LLM module (placeholder for actual integration)
+├── telegram_bot/
+│   ├── bot.py             # Telegram bot logic and handlers
+│   └── doc_processing.py  # Document processing and retrieval logic
+├── member_finder/
+│   └── finder.py          # Superteam Member Finder module
+├── twitter_assistant/
+│   └── twitter_manager.py # Twitter assistant module
+└── content_advisor/
+  └── advisor.py         # Content advisor module
+```
 
 
 ## Getting Started
